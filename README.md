@@ -117,7 +117,7 @@ Rental and tenancy management app for independent landlords · React Native (Exp
 
 - Deeper React Native New Architecture internals — Fabric, JSI, and custom TurboModule patterns.
 - Hardening OTA release strategies with EAS Update channels and rollout gating.
-- Offline-first sync patterns and conflict resolution for mobile-first products.
+- Offline-first sync patterns and conflict resolution  for mobile-first products.
 
 ---
 
